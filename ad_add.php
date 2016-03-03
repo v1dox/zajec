@@ -15,6 +15,9 @@
             <td>Datum konca:</td>
             <td><input type="date" name="date_e" required="required" /></td>
         </tr>
+		<tr><td><input type="radio" name="vrsta" value="Avkcija">Avkcija</td>
+			<td><input type="radio" name="vrsta" value="Fiksna cena">Fiksna cena </td>
+			</tr>
         <tr>
             <td>Cena:</td>
             <td><input type="number" name="price" required="required" /></td>
