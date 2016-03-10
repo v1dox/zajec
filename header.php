@@ -18,7 +18,7 @@ Released   : 20120915
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title>Keyborad by FCT</title>
+<title>Zajec</title>
 <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
 <!-- Add jQuery library -->
 <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
